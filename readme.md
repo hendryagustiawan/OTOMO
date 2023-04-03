@@ -19,4 +19,7 @@
 
 ## Result
 
-![Employee data](https://github.com/hendryagustiawan/PT-Informatika-Media-Pratama/blob/main/home.PNG "Employee Data title")
+![Employee data](https://github.com/hendryagustiawan/OTOMO/blob/master/Screenshot%202023-04-02%20150556.png "Home")
+![Employee data](https://github.com/hendryagustiawan/OTOMO/blob/master/Screenshot%202023-04-02%20102845.png "Access Token")
+![Employee data](https://github.com/hendryagustiawan/OTOMO/blob/master/Screenshot%202023-04-02%20150803.png "Success Login")
+![Employee data](https://github.com/hendryagustiawan/OTOMO/blob/master/Screenshot%202023-04-02%20150633.png "Gagal Login")
