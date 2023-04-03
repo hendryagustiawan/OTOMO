@@ -17,6 +17,17 @@
 2. jalankan `npm install` di terminal
 3. jalankan `npm run dev` di terminal
 
+**Ps**
+Gunakan data berikut untuk login yang sudah di register :
+
+    username: Ari,
+    password: ari123
+
+    Atau
+
+    username: Ajiz,
+    password: ajiz123
+
 ## Result
 
 ### Home
