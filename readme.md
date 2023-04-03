@@ -19,7 +19,18 @@
 
 ## Result
 
+### Home
+
 ![Employee data](https://github.com/hendryagustiawan/OTOMO/blob/master/Screenshot%202023-04-02%20150556.png "Home")
+
+### Access token dari backend
+
 ![Employee data](https://github.com/hendryagustiawan/OTOMO/blob/master/Screenshot%202023-04-02%20102845.png "Access Token")
+
+### Success login
+
 ![Employee data](https://github.com/hendryagustiawan/OTOMO/blob/master/Screenshot%202023-04-02%20150803.png "Success Login")
+
+### Gagal login
+
 ![Employee data](https://github.com/hendryagustiawan/OTOMO/blob/master/Screenshot%202023-04-02%20150633.png "Gagal Login")
